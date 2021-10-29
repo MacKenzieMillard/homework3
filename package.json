@@ -1,0 +1,14 @@
+{
+  "name": "homework3",
+  "version": "1.0.0",
+  "description": "homework3 for n315",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "serve": "live-server"
+  },
+  "author": "MacKenzie",
+  "license": "ISC"
+}
